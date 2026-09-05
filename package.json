@@ -1,0 +1,12 @@
+{
+  "name": "web-service-render",
+  "version": "1.0.0",
+  "description": "Web Service para práctica de Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
